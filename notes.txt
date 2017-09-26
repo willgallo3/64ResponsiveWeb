@@ -1,0 +1,3 @@
+Use Python Django would be awesome, if hired devs know it!
+
+If not, use what they know, and I'll learn it. Ruby etc
