@@ -8,12 +8,12 @@ Make Django project for this site, so it can have the admin.py and a database to
 
 # Step 2
 
-Make the images that appear all be entries in the database.<br>
+Make the images that appear all be entries in the database. All entries should be editable from Django admin panel.<br>
 DB entries must have: image, name, download link(s), web link, rating (1-5), genre.
 
 # Step 3
 
-Make it display all images by default, in random order. Random is refreshed on each page load.<br>
+Make the site display all images (entries) by default, in random order. Random is refreshed on each page load.<br>
 
 # Step 4
 
@@ -23,8 +23,7 @@ It should work so people can type in a few letters or a whole word, and it is se
 # Step 5
 
 Make one version of the site where you click the image and it starts downloading the file.<br>
-Make a second version where you click the image, and the larger image window pops up, with a download button overlayed on it.<br>
-It should have one download button for each filetype in that entry.
+Make a second version where you click the image, and the larger image window pops up, with a download button overlayed on it. It should have one download button for each filetype in that entry.
 
 # Step 6
 
